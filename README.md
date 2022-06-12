@@ -1,38 +1,42 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://twitter.com/JDuramBasabe/">
+      <img src="https://img.shields.io/twitter/follow/JDuranBasabe?color=%2324283B&label=Followers&labelColor=%23181C29&logo=twitter&logoColor=%23539BF5&style=for-the-badge">
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://GitHub.com/jmdb00/">
+      <img src="https://img.shields.io/github/followers/jmdb00?color=%2324283B&label=Followers&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
     </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=jmdb00&style=flat-square&color=blue" alt=""/>
   
-  <h1>
-    hey there, I’m @jmdb00
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
 </div>
-
+  
+# [ Hi, What’s up? 👋]()
+<br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
 
 ### :woman_technologist: About Me :
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+---
+
+### :fire: My Stats :
+<div align="center">
+  <a href="https://github.com/jmdb00"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jmdb00&show_icons=true&theme=tokyonight"></a>
+  <a href="https://github.com/jmdb00"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmdb00&&langs_count=10&layout=compact&theme=tokyonight"></a>
+</div>
+<br>
+  
+<div align="center" width="100%">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jmdb00&row=1&column=5&theme=onedark">
+</div>
+<br>
 
 ---
 
@@ -55,10 +59,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmdb00&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=0C34DD&currStreakLabel=DD7764&fire=DD2727&sideLabels=DD7764)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmdb00&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
