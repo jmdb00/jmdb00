@@ -8,7 +8,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=jmdb00&style=flat-square&color=blue" alt=""/>
+  ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/jmdb00) ![](https://komarev.com/ghpvc/?username=jmdb00&style=flat-square&color=blue)
   
 </div>
   
@@ -28,13 +28,13 @@
 
 ### :fire: My Stats :
 <div align="center">
-  <a href="https://github.com/jmdb00"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jmdb00&show_icons=true&theme=tokyonight"></a>
-  <a href="https://github.com/jmdb00"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmdb00&&langs_count=10&layout=compact&theme=tokyonight"></a>
+  <a href="https://github.com/jmdb00"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jmdb00&show_icons=true"></a>
+  <a href="https://github.com/jmdb00"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmdb00&&langs_count=10&layout=compact"></a>
 </div>
 <br>
   
 <div align="center" width="100%">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jmdb00&row=1&column=5&theme=onedark">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jmdb00&row=1&column=5">
 </div>
 <br>
 
